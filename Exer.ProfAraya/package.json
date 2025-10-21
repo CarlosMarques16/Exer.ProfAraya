@@ -1,0 +1,24 @@
+{
+  "name": "exer.profaraya",
+  "version": "1.0.0",
+  "description": "Ana Caroline,\r Carlos eduardo,\r Luiza Santiago,\r Nahiara Pedrosa,\r Ruan Rafael,\r Ismael Sampaio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosMarques16/Exer.ProfAraya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosMarques16/Exer.ProfAraya/issues"
+  },
+  "homepage": "https://github.com/CarlosMarques16/Exer.ProfAraya#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
